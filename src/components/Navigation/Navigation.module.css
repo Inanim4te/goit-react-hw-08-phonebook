@@ -1,0 +1,10 @@
+.wrap {
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}

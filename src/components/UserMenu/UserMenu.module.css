@@ -1,0 +1,13 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.wrap p {
+  margin: 0;
+}
+
+.button {
+  height: 25px;
+}
